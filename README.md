@@ -17,3 +17,10 @@ A simple Streamlit app showing movie data from [The Movie Database (TMDB)](https
    ```
    $ streamlit run streamlit_app.py
    ```
+### Built With:
+* [![Python][Python.com]][Python-url]
+### Top contributors:
+
+<a href="https://github.com/AkbarBahtiar18/UAS-SAINSKOM/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AkbarBahtiar18/UAS-SAINSKOM" alt="contrib.rocks image" />
+</a>
