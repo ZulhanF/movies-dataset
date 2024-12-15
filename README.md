@@ -1,4 +1,4 @@
-![python](https://github.com/user-attachments/assets/fddc4858-3585-4c71-aadd-c90dd53db698)# 🎬 Movies Recommendation System
+# 🎬 Movies Recommendation System
 
 A simple Streamlit app showing movie data from [The Movie Database (TMDB)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). 
 
